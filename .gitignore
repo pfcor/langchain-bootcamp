@@ -1,0 +1,11 @@
+.env
+
+langchain-course-main/
+Include/
+Lib/
+Scripts/
+share/
+some_*
+speech*
+usconst/
+pyvenv.cfg
